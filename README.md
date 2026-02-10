@@ -12,4 +12,9 @@
 
 ### 🔝 Top Contributed Repo  
 
+## 🔥 Work Highlights
+- Built and deployed a Holiday Planner web app → https://ankitkumartyagi05.github.io/holiday-planner/
+- Designed and developed my personal portfolio → https://ankitkumartyagi05.github.io/Portfolio/
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

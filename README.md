@@ -14,7 +14,7 @@
 
 ## 🔥 Work Highlights
 - Built and deployed a Holiday Planner web app → https://ankitkumartyagi05.github.io/holiday-planner/
-- Designed and developed my personal portfolio → https://ankitkumartyagi05.github.io/Portfolio/
+- Designed and developed my personal portfolio → https://portfolio-website-three-theta-95.vercel.app/
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
